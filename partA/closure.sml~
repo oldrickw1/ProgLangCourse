@@ -1,0 +1,9 @@
+fun f(g) =
+    g(2)
+
+val = 4
+fun h(y) = x + y
+val z = f(h)
+	 
+
+	 
